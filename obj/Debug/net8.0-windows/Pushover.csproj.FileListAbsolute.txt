@@ -1,0 +1,14 @@
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.AssemblyInfoInputs.cache
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.AssemblyInfo.cs
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.csproj.CoreCompileInputs.cache
+C:\Users\gosha\Pushover\bin\Debug\net8.0-windows\Pushover.exe
+C:\Users\gosha\Pushover\bin\Debug\net8.0-windows\Pushover.deps.json
+C:\Users\gosha\Pushover\bin\Debug\net8.0-windows\Pushover.runtimeconfig.json
+C:\Users\gosha\Pushover\bin\Debug\net8.0-windows\Pushover.dll
+C:\Users\gosha\Pushover\bin\Debug\net8.0-windows\Pushover.pdb
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.dll
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\refint\Pushover.dll
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.pdb
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.genruntimeconfig.cache
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\ref\Pushover.dll
