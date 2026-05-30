@@ -1,0 +1,49 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains
+*.iml
+
+# Rider local history
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# Generated files
+*.generated.cs
+
+# Others
+_testResults/
+
+# Ignore local appsettings
+appsettings.Development.json

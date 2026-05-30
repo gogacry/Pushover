@@ -12,3 +12,4 @@ C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\refint\Pushover.dll
 C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.pdb
 C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.genruntimeconfig.cache
 C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\ref\Pushover.dll
+C:\Users\gosha\Pushover\obj\Debug\net8.0-windows\Pushover.sourcelink.json
